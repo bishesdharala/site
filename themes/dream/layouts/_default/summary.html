@@ -16,7 +16,7 @@
       <a style="color: black !important;" href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
     <div class="meta">
-      <p class="date">{{ .Date.Format "DY,M,D,Y" }}</p>
+      <p class="date"></p>
       <p class="author">@ {{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}</p>
     </div>
     <div class="description">
