@@ -59,7 +59,7 @@ Then open your `config.toml`, edit to `theme = "dream"` and save.
 
 [My Blog](https://g1eny0ung.site)
 
-[My Blog's Source Code](https://github.com/g1eny0ung/blog)
+[My Blog's Source Code](https://github.com/bishesdharala)
 
 ## Publish
 
@@ -67,4 +67,4 @@ View [hugo hosting-and-deployment](https://gohugo.io/hosting-and-deployment/)
 
 ## License
 
-MIT © [g1eny0ung](https://github.com/g1eny0ung)
+MIT © [g1eny0ung](https://github.com/bishesdharala/site)
