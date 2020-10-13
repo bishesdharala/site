@@ -1,1 +1,1 @@
-# site
+Just another site !
